@@ -1,0 +1,7 @@
+checkpoint/
+*.pt
+*.csv
+__pycache__/
+.idea/
+.*
+!/.gitignore
